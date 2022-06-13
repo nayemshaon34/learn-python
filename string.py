@@ -19,3 +19,8 @@ print(course[0:3]) #will print from 0 index to 2 no index and exclude the no 3 i
 print(course[3:]) #will print from 3 no index to the end of the string
 print(course[:]) #will print from 0 no of index to the end
 print(ano) #copy the whole string into ano string
+
+
+#exercise
+name = "Akash Haq"
+print(name[1:-1]) #will print kash Ha
