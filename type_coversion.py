@@ -4,3 +4,8 @@ print(age)
 
 print(type(birthyear))
 print(type(age)) #to see the type of variables
+
+
+#exercise 1
+weight = input("Enter your weight in pounds: ")
+print(.4535924*int(weight))
