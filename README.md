@@ -10,3 +10,6 @@
 
 # formatted string
 ![image](https://user-images.githubusercontent.com/63460855/173562347-cac7d887-4ad5-4944-9862-7ef1bf9a646a.png)
+
+# string_method
+![image](https://user-images.githubusercontent.com/63460855/173568775-903c21de-323e-42d3-9e59-f85488d73824.png)
