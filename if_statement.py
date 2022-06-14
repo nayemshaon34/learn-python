@@ -12,3 +12,14 @@ elif is_cold:
 else:
     print("It's a lovely day")
 print("Enjoy your day")
+
+
+#exercise 1
+price = 1000000
+is_good_credit = False
+
+if is_good_credit:
+    down_payment = price * .1
+else:
+    down_payment = price * .2
+print(f"Downpayment is: ${down_payment}")
