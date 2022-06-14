@@ -16,3 +16,6 @@
 
 # math_functions
 ![image](https://user-images.githubusercontent.com/63460855/173578265-39c1b064-5eb0-4533-9258-6eb334ea7907.png)
+
+# while_loop
+![image](https://user-images.githubusercontent.com/63460855/173606739-e5144c89-8681-4ca3-8d52-0dd413ba13fc.png)
