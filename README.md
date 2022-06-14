@@ -13,3 +13,6 @@
 
 # string_method
 ![image](https://user-images.githubusercontent.com/63460855/173568775-903c21de-323e-42d3-9e59-f85488d73824.png)
+
+# math_functions
+![image](https://user-images.githubusercontent.com/63460855/173578265-39c1b064-5eb0-4533-9258-6eb334ea7907.png)
